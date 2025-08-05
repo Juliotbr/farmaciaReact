@@ -1,4 +1,3 @@
-// juliotbr/farmaciareact/farmaciaReact-73dbde89db60b28079b3711c6ff17fc3854a2557/src/components/navbar/Navbar.tsx
 import { Link } from "react-router-dom"
 
 function Navbar() {
